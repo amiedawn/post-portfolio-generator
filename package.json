@@ -1,0 +1,22 @@
+{
+  "name": "post-portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio generator with inquirer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiedawn/post-portfolio-generator.git"
+  },
+  "author": "Amie Carroll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiedawn/post-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/amiedawn/post-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
